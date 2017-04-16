@@ -1,0 +1,26 @@
+{
+  "name": "vws",
+  "version": "0.1.0",
+  "description": "Vuforia web service API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seancheung/vws.git"
+  },
+  "keywords": [
+    "vuforia",
+    "vws"
+  ],
+  "author": "Sean Cheung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seancheung/vws/issues"
+  },
+  "homepage": "https://github.com/seancheung/vws#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
